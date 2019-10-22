@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Zthxxx's Wiki
-subtitle: 知识不能碎片化，要结构化
-description: 面向 Google 和 StackOverflow 编程的 蒟蒻 coder，各方面都是辣鸡，但是觉得好玩就不会放弃，能和各位 蒟苣 dalao 生活在同一个时代真是了不起。写页面向来无视浏览器兼容性，有各种写出失败且不可调试代码的丰富经历。轻微强迫症患者，重度 ACG 病患。
-author: zthxxx
+title: <ZzyWiki />
+subtitle: 菜鸟
+description: -----
+author: witzhaoyu
 language: en
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://wiki.zthxxx.me
+url: http://wiki.withzhaoyu.com
 root: /
 permalink: wiki/:title/
 permalink_defaults:
@@ -113,16 +113,16 @@ sitemap:
 nofollow:
   enable: true
   exclude:
-    - zthxxx.me
-    - blog.zthxxx.me
-    - wiki.zthxxx.me
+    - withzhaoyu.com
+    - blog.withzhaoyu.com
+    - wiki.withzhaoyu.com
 
 ## Themes: https://hexo.io/themes/
 theme: Wikitten
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: https://hexo.io/docs/deployment.htmlss
 deploy:
   type: git
-  repository: git@github.com:zthxxx/Wiki-site.git
+  repository: git@github.com:withzhaoyu/wikizzy.git
   branch: gh-pages

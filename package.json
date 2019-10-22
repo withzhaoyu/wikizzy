@@ -1,9 +1,9 @@
 {
-  "name": "zthxxx-wiki",
+  "name": "withzhaoyu-wiki",
   "version": "1.0.1",
   "private": true,
   "hexo": {
-    "version": "3.6.0"
+    "version": "3.9.0"
   },
   "scripts": {
     "build": "hexo clean && hexo g && gulp",

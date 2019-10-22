@@ -2,7 +2,7 @@
 
 [English Page](./README.md)
 
-### 一个仿 [Wikitten](https://wikitten.vizuina.com/) 样式的 Hexo 个人 wiki 系统主题。 >[预览](http://wiki.zthxxx.me/)
+### 一个仿 [Wikitten](https://wikitten.vizuina.com/) 样式的 Hexo 个人 wiki 系统主题。 >[预览](http://wiki.withzhaoyu.com/)
 
 一些特性：
 
@@ -31,7 +31,7 @@
 
 ```bash
 $ cd your-hexo-directory
-$ git clone https://github.com/zthxxx/hexo-theme-Wikitten.git themes/Wikitten
+$ git clone https://github.com/withzhaoyu/hexo-theme-Wikitten.git themes/Wikitten
 ```
 
 2. 覆盖站点目录中一些默认页面模板
@@ -135,7 +135,7 @@ sitemap:
 nofollow:
   enable: true
   exclude:
-    - <your site url domain> # eg: zthxxx.me
+    - <your site url domain> # eg: withzhaoyu.com
 ```
 
 在**主题**配置文件 `Wikitten/_config.yml` 中，你能阅读到各个选项更多的细节配置。

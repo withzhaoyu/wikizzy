@@ -2,7 +2,7 @@
 
 [中文版文档](./README_zh-CN.md)
 
-### A personal wiki imitate [Wikitten](https://wikitten.vizuina.com/) style for Hexo. >[Preview](http://wiki.zthxxx.me/)
+### A personal wiki imitate [Wikitten](https://wikitten.vizuina.com/) style for Hexo. >[Preview](http://wiki.withzhaoyu.com/)
 
 some features:
 
@@ -31,7 +31,7 @@ some features:
 
 ```bash
 $ cd your-hexo-directory
-$ git clone https://github.com/zthxxx/hexo-theme-Wikitten.git themes/Wikitten
+$ git clone https://github.com/withzhaoyu/hexo-theme-Wikitten.git themes/Wikitten
 ```
 
 2. Rewrite to cover some default page template in site folder
@@ -133,7 +133,7 @@ sitemap:
 nofollow:
   enable: true
   exclude:
-    - <your site url domain> # eg: zthxxx.me
+    - <your site url domain> # eg: withzhaoyu.com
 ```
 
 In **theme** config file `Wikitten/_config.yml`, you can read more detailed commentary for some options.
