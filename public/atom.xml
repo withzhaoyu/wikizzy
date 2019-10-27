@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>&lt;ZzyWiki /&gt;</title>
+  
+  <subtitle>菜鸟</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://wiki.withzhaoyu.com/"/>
+  <updated>2019-10-22T14:02:54.340Z</updated>
+  <id>http://wiki.withzhaoyu.com/</id>
+  
+  <author>
+    <name>witzhaoyu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hi friend! Here is zzy`s wiki site</title>
+    <link href="http://wiki.withzhaoyu.com/wiki/index/"/>
+    <id>http://wiki.withzhaoyu.com/wiki/index/</id>
+    <published>2019-10-22T13:06:12.000Z</published>
+    <updated>2019-10-22T14:02:54.340Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/welcome_to_wiki.png" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/welcome_to_wiki.png&quot; alt&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>joe</title>
+    <link href="http://wiki.withzhaoyu.com/wiki/%E5%90%AC%E5%90%AC%E6%AD%8C/joe/"/>
+    <id>http://wiki.withzhaoyu.com/wiki/听听歌/joe/</id>
+    <published>2019-10-22T13:04:19.000Z</published>
+    <updated>2019-10-22T14:12:34.941Z</updated>
+    
+    <content type="html"><![CDATA[<p>writing</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;writing&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="听听歌" scheme="http://wiki.withzhaoyu.com/categories/%E5%90%AC%E5%90%AC%E6%AD%8C/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>joe</title>
+    <link href="http://wiki.withzhaoyu.com/wiki/%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91/joe/"/>
+    <id>http://wiki.withzhaoyu.com/wiki/技术开发/joe/</id>
+    <published>2019-10-22T13:04:19.000Z</published>
+    <updated>2019-10-22T14:12:23.277Z</updated>
+    
+    <content type="html"><![CDATA[<p>writing</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;writing&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="技术开发" scheme="http://wiki.withzhaoyu.com/categories/%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+  </entry>
+  
+</feed>
